@@ -35,3 +35,9 @@ Persamaan / Perbedaan antara Tugas 1 dan 2
 
 Dari log program, terbukti bahwa forward chaining adalah yang terbaik karena membutuhkan waktu yang lebih singkat dibandingkan dengan pendekatan lainnya. Dalam siklus rantai mundur terdeteksi yang menyebabkan penundaan dalam output. Perangkaian maju dan mundur hanya berfungsi untuk klausa klausa. Tetapi resolusi dapat berfungsi untuk semua jenis klausa tetapi masalah utamanya adalah bahwa resolusi membutuhkan banyak waktu dibandingkan dengan apporach lainnya. Log resolusi jauh lebih besar dibandingkan dengan teknik perangkaian maju dan mundur. Subuset klausa menjadi lebih besar karena lebih banyak jumlah klausa yang diselesaikan.
 
+
+# Pengertian Forward Chaining and Backward Chaining
+
+Forward chaining adalah strategi implementasi yang populer untuk sistem pakar, sistem aturan bisnis dan produksi. Forward chaining dimulai dengan data driven. Artinya pada forward Chaining semua data dan aturan akan ditelusuri untuk mencapai tujuan yang diinginkan. sedangkan Backward chaining merupakan metode inferensi yang dilakukan untuk bidang kecerdasan buatan yang dimulai dengan pendekatan tujuan atau goal oriented atau hipotesa.
+
+perbedaan dari Forward Chaining dan Backward Chaining terletak dari caranya dalam menyelesaikan permasalahan. Yaitu Forward Chaining merupakan metode pencarian yang memulai prosesnya dari sekumpulan data atau fakta dan dari fakta-fakta tersebut didapatkan kesimpulan yang dijadikan solusi dari permasalahan sedangkan Backward Chaining merupakan metode pencarian yang dimulai dari tujuan yaitu kesimpulan yang menjadi solusi dari permasalahan yang dihadapi.
