@@ -1,4 +1,4 @@
-			# PL RESOLUTION, BACKWARD CHAINING AND FORWARD CHAINING
+			# FORWARD CHAINING AND BACKWARD CHAINING 
 
 Nama	: Anisa Rosalina
 
@@ -6,8 +6,12 @@ NPM	: 1184016
 
 Kelas	: D4 Teknik Informatika
 
+Mata Kuliah	: Sistem Pakar
 
-Ada tiga tugas: Forward Chaining, Backward Chaining, dan Propositional Logic. Rincian masing-masing adalah sebagai berikut: -
+Dosen Pengampu	:  M. Nurkamal Fauzan, S.T., M.T.
+
+
+Ada 2 tugas: Forward Chaining dan Backward Chaining,. Rincian masing-masing adalah sebagai berikut: 
 
 1) Forward Chaining: Di sini kita diberikan basis pengetahuan yang mencakup aturan dan fakta. Ide dasar dibalik rangkaian maju adalah itu
 dari fakta kita mempelajari aturan dan melihat mana di antara mereka yang bisa dipecat. Aturan yang dipecat, konsekuensinya ditambahkan ke daftar fakta. Kemudian daftar fakta kolektif kemudian digunakan untuk memberlakukan aturan lebih lanjut.
